@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBNVWpbBDhj145SFyCk55dnO_nyIbdX9iU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149745364529</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.miniproject</string>
+	<key>PROJECT_ID</key>
+	<string>flutterminiproject-cccfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterminiproject-cccfe.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149745364529:ios:cd46a5e866d37d08266f10</string>
+</dict>
+</plist>
